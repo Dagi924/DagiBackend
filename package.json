@@ -6,7 +6,7 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Dagi",
+  "author": "Dagithegreat",
   "license": "ISC",
   "description": "",
   "dependencies": {
